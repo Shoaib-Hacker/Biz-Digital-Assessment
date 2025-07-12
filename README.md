@@ -38,7 +38,7 @@ A simple **Java Spring Boot RESTful API** for managing a library’s book catalo
 1. **Clone the repository**
 
    ```bash
-   git clone  https://github.com/Shoaib-Hacker/LibraryManagementSystem.git
+   git clone  https://github.com/Shoaib-Hacker/Biz-Digital-Assessment.git
    cd LibraryManagementSystem
 2. **Run the application using maven**
    ```bash
